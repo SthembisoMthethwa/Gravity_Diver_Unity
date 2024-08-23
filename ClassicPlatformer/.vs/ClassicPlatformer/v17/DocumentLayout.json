@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\touch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\touch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\spring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectcoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\levelselecttouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelselecttouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\hazards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hazards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\groundenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\groundenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\destroyparticleeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyparticleeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\space1\\classicplatformer\\classicplatformer\\assets\\scripts\\crumble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\crumble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\assets\\scripts\\backandfourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4D5898-0AE2-EB21-7681-CF18DFC98EDB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backandfourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Touch.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Touch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Touch.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Touch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Touch.cs",
+              "ViewState": "AQIAACYAAAAAACADW0smwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:07:48.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spring.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Spring.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spring.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Spring.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spring.cs",
+              "ViewState": "AQIAAA4AAAAAAAAGJ+cswBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:07:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Selector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Selector.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Selector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Selector.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:07:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAH8AAAAAAMCJxPAhwIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:27:03.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Score.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Score.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Score.cs",
+              "ViewState": "AQIAAAsAAAAAAMAECE0wwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:29:59.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CollectCoin.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectCoin.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\CollectCoin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectCoin.cs",
+              "ViewState": "AQIAABcAAAAAAICwk5svwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:29:43.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AQIAAA4AAAAAAAAggAHIvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:59:33.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EndLevel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\EndLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndLevel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\EndLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndLevel.cs",
+              "ViewState": "AQIAAB0AAAAAAABQDZbyvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:30:25.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LevelSelectTouch.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\LevelSelectTouch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelSelectTouch.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\LevelSelectTouch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelSelectTouch.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:04:08.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hazards.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Hazards.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hazards.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Hazards.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hazards.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:03:40.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroundEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\GroundEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundEnemy.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\GroundEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:03:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DestroyParticleEffect.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\DestroyParticleEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyParticleEffect.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\DestroyParticleEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyParticleEffect.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:01:57.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Crumble.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Crumble.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Crumble.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\Crumble.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Crumble.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T12:01:49.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelLoader.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\LevelLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelLoader.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\LevelLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelLoader.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:30:38.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BackAndFourth.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\BackAndFourth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackAndFourth.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\space1\\ClassicPlatformer\\ClassicPlatformer\\Assets\\Scripts\\BackAndFourth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackAndFourth.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:27:02.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
